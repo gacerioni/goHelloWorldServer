@@ -14,19 +14,4 @@ $ ./go-sample-app
 $ curl http://localhost:8080?name=Nofar
 Hello, Nofar 
 Test1
-``` 
-
-1111
-1111
-
-  wer
-   
-   
-    
-         ddd
-          werwer
-               
- 
-   fdsd
-  
-456456
+```
